@@ -4,7 +4,7 @@ import React from 'react'
 export default function Welcome() {
   return (
     <View>
-      <Text>Bienvenido</Text>
+      <Text>Bienvenido a la app</Text>
     </View>
   )
 }
